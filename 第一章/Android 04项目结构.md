@@ -2,8 +2,8 @@
 |-- .gradle 
 |-- .idea               // 这两项都是 Android 自动生成的, 不需要去关系  
 |-- app                 // app 是比较重要的, 后续开发都在这个目录中进行  
-|-- gradle              // 这个目录包含了 gradle wrapper 的配置文件,使用 gradle wrapper 的方式不需要提前将gradle下载好， 而是会自动根据本地的缓存情况决定是需要联网下载 gradle. Android 默认是没有启动 gradle wrapper 的方式. 
-|-- .gitignore          // git相关的 
+|-- gradle              // 这个目录包含了 gradle wrapper 的配置文件,使用 gradle wrapper 的方式不需要提前将gradle下载好， 而是会自动根据本地的缓存情况决定是需要联网下载 gradle. Android 默认是没有启动 gradle wrapper 的方式.  
+|-- .gitignore          // git相关的  
 |-- build.gradle        // 这是项目的全局构建脚本, 通常这个文件夹的内容不需要修改.   
 |-- gradle.properties   // 这是全局的 gradle 配置文件，在这里配置的属性将影响到项目中所有的 gradle 编译脚本.  
 |-- gradlew 
