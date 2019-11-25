@@ -17,3 +17,4 @@
 3. [活动间传递数据](https://github.com/wjJSBlog/android_study/blob/master/第二章/活动间传递数据.md)
 4. [活动的生命周期](https://github.com/wjJSBlog/android_study/blob/master/第二章/活动的生命周期.md)
 5. [活动的启动模式](https://github.com/wjJSBlog/android_study/blob/master/第二章/活动的启动模式.md)
+5. [活动的最佳实战](https://github.com/wjJSBlog/android_study/blob/master/第二章/活动的最佳实战.md)
