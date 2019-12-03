@@ -21,4 +21,4 @@
 
 ## 第三章 熟悉UI组件
 
-1. [学习基本的控件]("https://github.com/wjJSBlog/android_study/blob/master/第三章/学习基本的控件.md")
+1. [学习基本的控件](https://github.com/wjJSBlog/android_study/blob/master/第三章/学习基本的控件.md)
