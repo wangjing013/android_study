@@ -18,3 +18,7 @@
 4. [活动的生命周期](https://github.com/wjJSBlog/android_study/blob/master/第二章/活动的生命周期.md)
 5. [活动的启动模式](https://github.com/wjJSBlog/android_study/blob/master/第二章/活动的启动模式.md)
 5. [活动的最佳实战](https://github.com/wjJSBlog/android_study/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/%E6%B4%BB%E5%8A%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
+
+## 第三章 熟悉UI组件
+
+1. [学习基本的控件]("https://github.com/wjJSBlog/android_study/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/%E5%AD%A6%E4%B9%A0%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%8E%A7%E4%BB%B6.md")
